@@ -2,7 +2,7 @@
 
 The `titanic_survival_prediction.py` script covers the entire machine learning workflow, from data loading and preprocessing to model evaluation and comparison, including the application of SMOTE for handling imbalanced datasets.
 
-## Script Description: `scripts/titanic_survival_prediction.py`
+## Script Description:
 
 This script performs the following key steps:
 
